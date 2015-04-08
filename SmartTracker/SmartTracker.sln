@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTracker.DaaCollector",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTracker.Web", "SmartTracker.Web\SmartTracker.Web.csproj", "{045ECF20-C686-429D-B833-A8915114F617}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartTracker.DataCollector", "SmartTracker.DataCollector\SmartTracker.DataCollector.csproj", "{37521612-7F70-4B09-A5F9-DE26F0AFA8D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -15,6 +17,10 @@ Global
 		{045ECF20-C686-429D-B833-A8915114F617}.Debug|x86.Build.0 = Debug|x86
 		{045ECF20-C686-429D-B833-A8915114F617}.Release|x86.ActiveCfg = Release|x86
 		{045ECF20-C686-429D-B833-A8915114F617}.Release|x86.Build.0 = Release|x86
+		{37521612-7F70-4B09-A5F9-DE26F0AFA8D6}.Debug|x86.ActiveCfg = Debug|x86
+		{37521612-7F70-4B09-A5F9-DE26F0AFA8D6}.Debug|x86.Build.0 = Debug|x86
+		{37521612-7F70-4B09-A5F9-DE26F0AFA8D6}.Release|x86.ActiveCfg = Release|x86
+		{37521612-7F70-4B09-A5F9-DE26F0AFA8D6}.Release|x86.Build.0 = Release|x86
 		{43768D71-B374-4253-94AF-A01BB6FEF820}.Debug|x86.ActiveCfg = Debug|x86
 		{43768D71-B374-4253-94AF-A01BB6FEF820}.Debug|x86.Build.0 = Debug|x86
 		{43768D71-B374-4253-94AF-A01BB6FEF820}.Release|x86.ActiveCfg = Release|x86
