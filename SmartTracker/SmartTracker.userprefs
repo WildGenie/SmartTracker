@@ -1,1 +1,1 @@
-﻿<Properties StartupItem="SmartTracker.DaaCollector/SmartTracker.DaaCollector.csproj" />
+﻿<Properties StartupItem="SmartTracker.Web/SmartTracker.Web.csproj" />
