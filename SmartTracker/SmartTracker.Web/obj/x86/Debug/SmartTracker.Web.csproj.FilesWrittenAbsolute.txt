@@ -1,0 +1,5 @@
+/Users/heathivie/GIT/SmartTracker/SmartTracker.Web/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/heathivie/GIT/SmartTracker/SmartTracker.Web/bin/Debug/SmartTracker.Web.exe.mdb
+/Users/heathivie/GIT/SmartTracker/SmartTracker.Web/bin/Debug/SmartTracker.Web.exe
+/Users/heathivie/GIT/SmartTracker/SmartTracker.Web/obj/x86/Debug/SmartTracker.Web.exe
+/Users/heathivie/GIT/SmartTracker/SmartTracker.Web/obj/x86/Debug/SmartTracker.Web.exe.mdb

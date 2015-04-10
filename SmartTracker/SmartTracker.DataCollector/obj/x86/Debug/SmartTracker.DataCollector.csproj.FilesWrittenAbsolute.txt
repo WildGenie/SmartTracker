@@ -1,0 +1,16 @@
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/SmartTracker.DataCollector.exe.mdb
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/SmartTracker.DataCollector.exe
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/obj/x86/Debug/SmartTracker.DataCollector.exe
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/obj/x86/Debug/SmartTracker.DataCollector.exe.mdb
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/Nancy.dll
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/Autofac.dll
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/Nancy.Hosting.Self.dll
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/Mono.Security.dll
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/Npgsql.dll
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/ServiceStack.Interfaces.dll
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/ServiceStack.Text.dll
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/ServiceStack.Common.dll
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/ServiceStack.OrmLite.dll
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/ServiceStack.OrmLite.PostgreSQL.dll
+/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/bin/Debug/Nancy.Bootstrappers.Autofac.dll

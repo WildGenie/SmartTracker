@@ -1,1 +1,42 @@
-﻿<Properties StartupItem="SmartTracker.Web/SmartTracker.Web.csproj" />
+﻿<Properties StartupItem="SmartTracker.DataCollector/SmartTracker.DataCollector.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SmartTracker.DataCollector/BootStrapper.cs">
+    <Files>
+      <File FileName="SmartTracker.DataCollector/Program.cs" Line="18" Column="31" />
+      <File FileName="SmartTracker.DataCollector/BootStrapper.cs" Line="43" Column="49" />
+      <File FileName="SmartTracker.DataCollector/EventDataEntity.cs" Line="99" Column="4" />
+      <File FileName="SmartTracker.DataCollector/Repositories/DoorAndSensorRepository.cs" Line="30" Column="36" />
+      <File FileName="SmartTracker.DataCollector/Nancy Modules/DoorAndWindowSensorModule.cs" Line="18" Column="1" />
+      <File FileName="SmartTracker.Web/Program.cs" Line="1" Column="1" />
+      <File FileName="SmartTracker.DataCollector/Interfaces/IDoorAndSensorRepository.cs" Line="7" Column="3" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="SmartTracker.DataCollector" expanded="True" selected="True">
+            <Node name="References" expanded="True">
+              <Node name="From Packages" expanded="True" />
+            </Node>
+            <Node name="Interfaces" expanded="True" />
+            <Node name="Nancy Modules" expanded="True" />
+            <Node name="Repositories" expanded="True" />
+          </Node>
+          <Node name="SmartTracker.Web" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State>
+          <Value>db</Value>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/Repositories/DoorAndSensorRepository.cs" line="38" column="1" />
+      <Breakpoint file="/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/Repositories/DoorAndSensorRepository.cs" line="29" column="1" />
+      <Breakpoint file="/Users/heathivie/GIT/SmartTracker/SmartTracker.DataCollector/Repositories/DoorAndSensorRepository.cs" line="33" column="38" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
